@@ -1,0 +1,11 @@
+.blocks-heroes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block {
+    border: 2px solid black;
+    padding: 0.5em;
+    height: fit-content;
+    width: fit-content;
+}

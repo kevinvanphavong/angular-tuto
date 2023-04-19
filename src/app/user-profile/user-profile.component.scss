@@ -1,0 +1,14 @@
+.user-profile {
+    width: fit-content;
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+
+.user-profile img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.user-profile-infos {
+    padding: 1em;
+}
